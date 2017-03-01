@@ -5,7 +5,7 @@
 ```npm start```
 
 ### Example Query
-1. User
+- User
 ```
 {
   users {
@@ -15,7 +15,7 @@
   }
 }
 ```
-2. Group
+- Group
 ```
 {
   groups {
@@ -24,7 +24,7 @@
   }
 }
 ```
-3. User and Group
+- User and Group
 ```
 {
   groups {
@@ -45,7 +45,7 @@
   }
 }
 ```
-4. Stack User and Group
+- Stack User and Group
 ```
 {
   groups {
